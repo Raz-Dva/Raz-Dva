@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raz-Dva
+- 👋 Hi, I’m @Raz-Dva. My name is Honcharov Ivan
 - 👀 
 - 🌱 I’m currently learning Angular, TypeScript, JS
 - 
