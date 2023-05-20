@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Honcharov Ivan. My name is Honcharov Ivan
+- 👋 Hi, I’m Honcharov Ivan.
 - 📫 How to reach me my.poshta.goncharov@gmail.com  linkedin.com/in/ivan-honcharov-7a39371a1/
 
 <!---
